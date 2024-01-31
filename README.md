@@ -16,7 +16,7 @@ Conoce a nuestros colaboradores:
 
 Reseñas  
 
-1)  Nos inspiramos en la página web de Chaumet para hacer nuestro proyecto integrador.
+1) Chaumet
 
 La página web de Chaumet presenta una estética elegante y sofisticada que se adapta a la naturaleza lujosa de la marca. El uso de imágenes de alta calidad, animaciones fluidas y un diseño limpio y minimalista crea una experiencia visual atractiva para los visitantes.
 
@@ -26,10 +26,10 @@ El uso de imágenes de alta calidad: Las imágenes de los productos de Chaumet s
 Las animaciones fluidas: Las animaciones de la página web de Chaumet son fluidas y elegantes. Ayudan a guiar la atención de los visitantes y a crear un sentido de movimiento.
 El diseño limpio y minimalista: El diseño de la página web de Chaumet es limpio y minimalista. Esto ayuda a mantener la atención de los visitantes en los productos.
 
-fuente 
+Fuente 
 https://www.chaumet.com/gb_en/jewellery 
 
-2) Nos inspiramos en el texto con la imagen cambiante de La Guaca Joyeros para nuestro proyecto integrador.
+2) La Guaca Joyeros
 
 Creemos que este elemento es una forma efectiva de llamar la atención de los visitantes y guiarlos a través de la página web. El texto es simple y directo, lo que lo hace fácil de entender. La imagen es atractiva y llamativa, y el cambio de imagen es inesperado y llama la atención.
 
@@ -46,7 +46,7 @@ Facilidad de uso: El texto simple y directo hace que el elemento sea fácil de e
 Atractivo visual: La imagen atractiva y llamativa hace que el elemento sea agradable a la vista.
 Memorabilidad: El cambio de imagen inesperado hace que el elemento sea memorable y atractivo.
 
-fuente 
+Fuente 
 https://laguacajoyeros.com/
 
 3) Tifanny & Co
@@ -63,7 +63,7 @@ La página web  ofrece la opción de compra en línea, con funciones seguras de 
 
 Igualmente la pagina destaca eventos especiales, lanzamientos de productos o colaboraciones exclusivas, que es algo que queremos implementar en nuestra tienda.
 
-fuente
+Fuente
 https://www.tiffany.com/watches/shop/watches-tiffany-ct60/
 
 4) Cartier
@@ -76,3 +76,19 @@ Cartier no anda con rodeos, y nosotros tampoco. Soñamos con algun dia ser la fu
 
 Fuente:
 https://www.cartier.com/es-es/joyeria
+
+5) Pandora
+
+Lo que más nos cautivó de esta página, además de su estética y funcionalidad, es que se destacan principalmente por un producto único: sus pulseras charm. Las pulseras de Pandora, personalizables a gusto del cliente, permiten seleccionar y agregar encantos individuales que capturan momentos significativos. Estos encantos abarcan desde símbolos y piedras preciosas hasta diseños temáticos, creando piezas verdaderamente únicas.
+
+En este sentido, nos inspira la idea de destacar un producto emblemático en nuestra propia web, buscando ser reconocidos por esa singularidad.
+
+Fuente: www.pandoraoficial.com.ar 
+
+6) María Candela Joyas
+
+María Candela es una empresa más bien chica, de la Provincia de Mendoza, que vende todo tipo de joyas y realiza envíos a toda Argentina. 
+
+Lo que más nos llamo la atención de este E-commerce, fue principalmente la estética, la gama de colores que utiliza, y su distribución de elementos. La página web se destaca por su diseño intuitivo y accesible. La distribución de elementos es armoniosa, guiando a los visitantes de manera natural a través de las distintas secciones. La presentación clara de categorías y productos facilita la búsqueda.
+
+Fuente: www.mariacandelajoyas.com
