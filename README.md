@@ -16,7 +16,7 @@ Conoce a nuestros colaboradores:
 
 Reseñas  
 
-(Nos inspiramos en la página web de Chaumet para hacer nuestro proyecto integrador.
+[Nos inspiramos en la página web de Chaumet para hacer nuestro proyecto integrador.
 
 La página web de Chaumet presenta una estética elegante y sofisticada que se adapta a la naturaleza lujosa de la marca. El uso de imágenes de alta calidad, animaciones fluidas y un diseño limpio y minimalista crea una experiencia visual atractiva para los visitantes.
 
@@ -27,4 +27,4 @@ Las animaciones fluidas: Las animaciones de la página web de Chaumet son fluida
 El diseño limpio y minimalista: El diseño de la página web de Chaumet es limpio y minimalista. Esto ayuda a mantener la atención de los visitantes en los productos.
 
 fuente 
-https://www.chaumet.com/gb_en/jewellery)
+https://www.chaumet.com/gb_en/jewellery]
