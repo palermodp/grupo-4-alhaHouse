@@ -48,3 +48,20 @@ Memorabilidad: El cambio de imagen inesperado hace que el elemento sea memorable
 
 fuente 
 https://laguacajoyeros.com/
+
+Tifanny & Co
+
+Tiffany & Co es una reconocida joyería d lujo con una larga historia y reputación destacada en la industria. Lo que mas nos llamo la atención fue que su sitio web refleja  la elegancia y la sofisticación que caracterizan la marca, solo el hecho de estar en la main page podemos  darnos cuenta de la elegancia y lo influyente que es la marca en la industria, que es algo que queremos transmitir al cliente cuando entre en nuestra tienda.
+
+Algunas características que nos llamaron mucho la atención fue que la página web  presenta un diseño limpio y elegante, en sintonía con la imagen de la marca. La paleta de colores y el  azul Tiffany  es icónica para la marca.
+
+Su navegación ya que es intuitiva y fácil de usar, permitiendo a los visitantes explorar categorías como anillos de compromiso, joyas, relojes, accesorios, entre otros.
+
+También tiene un catalogo completo ya que muestra los productos, con imágenes de alta calidad y descripciones detalladas para cada articulo.
+
+La página web  ofrece la opción de compra en línea, con funciones seguras de pago y posiblemente servicios de envío a nivel internacional.
+
+Igualmente la pagina destaca eventos especiales, lanzamientos de productos o colaboraciones exclusivas, que es algo que queremos implementar en nuestra tienda.
+
+fuente
+https://www.tiffany.com/watches/shop/watches-tiffany-ct60/
