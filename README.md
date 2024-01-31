@@ -16,7 +16,7 @@ Conoce a nuestros colaboradores:
 
 Reseñas  
 
-1) [ Nos inspiramos en la página web de Chaumet para hacer nuestro proyecto integrador.
+1)  Nos inspiramos en la página web de Chaumet para hacer nuestro proyecto integrador.
 
 La página web de Chaumet presenta una estética elegante y sofisticada que se adapta a la naturaleza lujosa de la marca. El uso de imágenes de alta calidad, animaciones fluidas y un diseño limpio y minimalista crea una experiencia visual atractiva para los visitantes.
 
@@ -27,4 +27,24 @@ Las animaciones fluidas: Las animaciones de la página web de Chaumet son fluida
 El diseño limpio y minimalista: El diseño de la página web de Chaumet es limpio y minimalista. Esto ayuda a mantener la atención de los visitantes en los productos.
 
 fuente 
-https://www.chaumet.com/gb_en/jewellery ]
+https://www.chaumet.com/gb_en/jewellery 
+
+2) Nos inspiramos en el texto con la imagen cambiante de La Guaca Joyeros para nuestro proyecto integrador.
+
+Creemos que este elemento es una forma efectiva de llamar la atención de los visitantes y guiarlos a través de la página web. El texto es simple y directo, lo que lo hace fácil de entender. La imagen es atractiva y llamativa, y el cambio de imagen es inesperado y llama la atención.
+
+Para nuestro proyecto, crearemos un elemento similar que muestre el nombre de nuestra empresa y una imagen de uno de nuestros productos. Cuando el visitante coloque el cursor sobre el texto, la imagen cambiará a otro producto de nuestra empresa.
+
+Creemos que este elemento será efectivo para nuestro proyecto porque:
+
+Llamará la atención de los visitantes y los invitará a explorar nuestra página web.
+Destacará nuestros productos y los hará más atractivos para los visitantes.
+Proporcionará una experiencia visual atractiva para los visitantes.
+
+Además de llamar la atención y destacar los productos, creemos que este elemento también mejorará la experiencia de usuario de nuestra página web.
+Facilidad de uso: El texto simple y directo hace que el elemento sea fácil de entender y usar.
+Atractivo visual: La imagen atractiva y llamativa hace que el elemento sea agradable a la vista.
+Memorabilidad: El cambio de imagen inesperado hace que el elemento sea memorable y atractivo.
+
+fuente 
+https://laguacajoyeros.com/
