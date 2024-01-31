@@ -49,7 +49,7 @@ Memorabilidad: El cambio de imagen inesperado hace que el elemento sea memorable
 fuente 
 https://laguacajoyeros.com/
 
-Tifanny & Co
+3) Tifanny & Co
 
 Tiffany & Co es una reconocida joyería d lujo con una larga historia y reputación destacada en la industria. Lo que mas nos llamo la atención fue que su sitio web refleja  la elegancia y la sofisticación que caracterizan la marca, solo el hecho de estar en la main page podemos  darnos cuenta de la elegancia y lo influyente que es la marca en la industria, que es algo que queremos transmitir al cliente cuando entre en nuestra tienda.
 
@@ -65,3 +65,12 @@ Igualmente la pagina destaca eventos especiales, lanzamientos de productos o col
 
 fuente
 https://www.tiffany.com/watches/shop/watches-tiffany-ct60/
+
+4) Dado que nos destacamos por la calidad del producto que ofrecemos, una de nuestras fuentes de inspiracion fue Cartier Joyas, quien lidera el ranking de las mejores joyerias del mundo! Sus destacados diseños son el centro de atencion de quien lo porte, vaya donde vaya.
+
+Desde las mejores alianzas de compromiso, hasta los colgantes mas sofisticados y elegantes, o hasta los pendientes mas asomsobros y deslumbrantes de la industria!
+
+Cartier no anda con rodeos, y nosotros tampoco. Soñamos con algun dia ser la fuente de inspiracion de otra empresa en desarrollo, asi como Cartier hoy es la nuestra.
+
+Fuente:
+https://www.cartier.com/es-es/joyeria
