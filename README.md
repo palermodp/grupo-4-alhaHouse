@@ -3,11 +3,7 @@ Comienzo del trabajo integrador
 
 Somos AlhaHouse. Nos avalan nuestros 70 años en el mercado ofreciendo calidad y calidez a cada producto.
 Nos orientamos a un publico totalmente variado y teniendo las mejores opciones para atesorar momentos inolvidables: 
-Dijes
-Pulseras
-Anillos
-Colgantes
-Y mucho mas!
+Dijes, pulseras, anillos, colgantes y mucho mas!
 Conocenos a fondo en nuestra web!
 
 Conoce a nuestros colaboradores:
