@@ -14,6 +14,7 @@ Conoce a nuestros colaboradores:
 - Hola soy Abril Gil, soy parte del equipo de AlhaHouse, esperamos poder brindarles de la mejor manera nuestros productos.
 - Hola! Soy Danilo Palermo. Soy miembro de AlhaHouse. Esperamos de todo corazon, poder brindarles a todos la mejor atencion posible!
 - ¡Hola! Soy Dafne Molina, parte de AlhaHouse. Como equipo, nos comprometemos a ofrecerte productos de calidad, superar expectativas y brindar la mejor atención posible.
+- Hola! mi nombre es Andrés Urbano y soy parte del grupo de colaboradores de AlhaHouse. Nos caracterizamos por producir productos de calidad y con un buen diseño en cada una de nuestras joyas que agregaran belleza a tu mundo.
 
 Reseñas  
 
