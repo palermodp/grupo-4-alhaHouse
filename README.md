@@ -1,4 +1,4 @@
-# grupo-4-alhaHouse
+# AlhaHouse
 Comienzo del trabajo integrador
 
 Somos AlhaHouse. Nos avalan nuestros 70 años en el mercado ofreciendo calidad y calidez a cada producto.
